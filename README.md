@@ -1,4 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Yaswanth%20kumar%20Yejarla&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=AI%2FML%20Engineer%20%7C%20Python%20Developer%20%7C%20Automation%20Specialist%20%20Aspiring%20Digital%20Specialist%20Engineer%20%7C%20Deep%20Learning%20%26%20NLP%20Enthusiast&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
+
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=yaswanth-kumar546">
