@@ -5,7 +5,6 @@
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=yaswanth-kumar546">
-    <img src="https://komarev.com/ghpvc/?username=yaswanth-kumar546&label=Profile%20views&color=00FFFF&style=flat-square" alt="yaswanth-kumar546's profile views" />
   </a>
 </p>
 
